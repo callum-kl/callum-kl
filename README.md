@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @callum-kl
+👋 Hi, I’m @callum-kl
 
 <!---
 callum-kl/callum-kl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
